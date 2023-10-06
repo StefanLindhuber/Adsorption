@@ -1,0 +1,20 @@
+line	pressure	composition (CURLTUGMZLYLDI-UHFFFAOYSA-N)	adsorption (CURLTUGMZLYLDI-UHFFFAOYSA-N)	total_adsorption	Temp [K]	adsorbent	adsorbates
+1	9.66E-5	1	0.198222	0.198222	293	Zeolite 13X	Carbon Dioxide
+2	0.000168	1	0.304562	0.304562	293	Zeolite 13X	Carbon Dioxide
+3	0.000309	1	0.453587	0.453587	293	Zeolite 13X	Carbon Dioxide
+4	0.000513	1	0.606756	0.606756	293	Zeolite 13X	Carbon Dioxide
+5	0.00081	1	0.773231	0.773231	293	Zeolite 13X	Carbon Dioxide
+6	0.00122801	1	0.948546	0.948546	293	Zeolite 13X	Carbon Dioxide
+7	0.00203619	1	1.19217	1.19217	293	Zeolite 13X	Carbon Dioxide
+8	0.00349523	1	1.47263	1.47263	293	Zeolite 13X	Carbon Dioxide
+9	0.00548307	1	1.74502	1.74502	293	Zeolite 13X	Carbon Dioxide
+10	0.00974369	1	2.11121	2.11121	293	Zeolite 13X	Carbon Dioxide
+11	0.0171955	1	2.5104	2.5104	293	Zeolite 13X	Carbon Dioxide
+12	0.0301369	1	2.95421	2.95421	293	Zeolite 13X	Carbon Dioxide
+13	0.0520912	1	3.41679	3.41679	293	Zeolite 13X	Carbon Dioxide
+14	0.0834329	1	3.83052	3.83052	293	Zeolite 13X	Carbon Dioxide
+15	0.144213	1	4.32419	4.32419	293	Zeolite 13X	Carbon Dioxide
+16	0.256273	1	4.83103	4.83103	293	Zeolite 13X	Carbon Dioxide
+17	0.491469	1	5.37862	5.37862	293	Zeolite 13X	Carbon Dioxide
+18	0.975733	1	5.88546	5.88546	293	Zeolite 13X	Carbon Dioxide
+19	1.0901	1	5.86511	5.86511	293	Zeolite 13X	Carbon Dioxide
